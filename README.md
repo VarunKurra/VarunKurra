@@ -1,1 +1,1 @@
-<img src="VarunsGithubImage.png" alt="Varun Kurra" width="100%" />
+<img src="VarunsGithubImage.png" alt="Varun Kurra" width="70%" />
